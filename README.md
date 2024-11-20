@@ -21,8 +21,8 @@
 
 |FE/BE|이름|역할|
 |---|---|-------|
-|FE|윤하연|FE 개발|
-|FE|임준희|FE 개발|
+|FE|윤하연|React와 TypeScript를 활용한 FE 개발|
+|FE|임준희|React와 TypeScript를 활용한 FE 개발|
 |BE|남보우|Spring Security와 0Auth2.0을 활용한 회원 서비스 개발, WebSocket과 Redis pub/sub구조를 활용한 채팅 서비스 개발|
 |BE|박준엽|Blasepose를 활용한 사용자 모션인식 서비스 개발|
 |BE|박진우|Jenkins Pipeline 활용 CI/CD 환경 구축, OAuth2.0 회원 서비스, 채팅 서비스, 챌린지 서비스, 피드 서비스, 가이드 서비스|
