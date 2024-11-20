@@ -1,5 +1,5 @@
 # SSAFY 11기 공통프로젝트 : LeadMe
-![LEADME_LOGO](/uploads/d373b866f74d442994a9ec7aa594f358/LEADME-최종_1920px___2_.png)
+![LEADME](https://github.com/user-attachments/assets/f247c738-a64c-4c30-a4b5-462b796dfb26)
 
 
 <br/>
@@ -14,10 +14,6 @@
 
 **친구와 함께하는 챌린지 배틀**
 + 친구와 실시간으로 춤 배틀을 펼쳐보세요! 나의 챌린지 점수와 비교해가며 서로 경쟁하고, 더 즐거운 경험을 만들어가세요. 누가 더 챌린지 고수인지, 지금 바로 확인해보세요 💃
-
-<br/>
-
-## 📹 프로젝트 시연 영상
 
 <br/>
 
