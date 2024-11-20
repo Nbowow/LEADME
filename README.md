@@ -32,21 +32,11 @@
 
 ## ⚙️ 개발 환경
 
-FE
----
-
-
 BE
 ---
 1. 자바 버전 : OpenJDK 17
 2. Springboot 버전 : 3.3.1
 3. 빌드 & 빌드 도구 : Gradle, Jenkins
-4. Git branch 전략 :  
-
-
-
-
-
 
 <br/>
 
